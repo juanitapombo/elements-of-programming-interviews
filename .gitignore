@@ -1,0 +1,31 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore virtual environments
+EPI-env/
+
+# Ignore environment & dependency files
+.env
+*.env
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore editor/IDE folders
+.vscode/
+.idea/
+*.swp
+
+# Ignore test and coverage reports (if you use them later)
+htmlcov/
+.tox/
+.coverage
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+
+# Ignore Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
