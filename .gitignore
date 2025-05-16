@@ -5,6 +5,7 @@ __pycache__/
 
 # Ignore virtual environments
 EPI-env/
+EPIJudge/
 
 # Ignore environment & dependency files
 .env
